@@ -1,2 +1,2 @@
-# Demo-Redux-Javascript
+# Demo Redux Javascript
 A Demo Redux with Pure Ravascript
